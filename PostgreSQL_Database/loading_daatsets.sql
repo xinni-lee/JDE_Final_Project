@@ -1,5 +1,7 @@
---Load csv files into C drive (for Windows)
---Run part by part (1. Create table, 2. Copy records in csv files into new table, 3. Check table is created by looking at number of records and field names/types)
+-- Create a database in pgadmin first then open the query
+-- Load csv files into C drive (for Windows)
+-- Run part by part in 3 steps for each table
+-- (1. Create table, 2. Copy records in csv files into new table, 3. Check table is created by looking at number of records and field names/types)
 
 --0 olist_order_items_dataset.csv
 DROP TABLE IF EXISTS order_items;
