@@ -13,3 +13,4 @@
 <p>5. Strategic Recommendations – Derived actionable insights to enhance Olist’s marketplace performance and customer satisfaction.</p>
 <p></p>
 <p>This project showcases essential data engineering and analytics skills, bridging raw data with meaningful business decisions.</p>
+<p><i>Proudly done our team: District23 from the JDE05 cohort</i></p>
